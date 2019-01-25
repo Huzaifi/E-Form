@@ -1,0 +1,14 @@
+version: "3"
+services:
+  eform-ssr:
+    container_name: eform-ssr
+    image: eform-ssr
+    build:
+      context: .
+    volumes:
+      - ".:/usr/src/app"
+    ports:
+      - "6789:8080" # expose ports - HOST:CONTAINER
+    environment:
+      - PORT=8080
+    network_mode: bridge
