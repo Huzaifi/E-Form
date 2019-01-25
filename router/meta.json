@@ -1,0 +1,52 @@
+{
+  "/": {
+    "title": "E-Form",
+    "description": "E-Form for Registration & Loan Application",
+    "keywords": "eform, e-form, bjb, registration, daftar, loan, los, open, buka rekening"
+  },
+  "/registrationInfo": {
+    "title": "Registration Info",
+    "description": "Saving Type Info",
+    "keywords": "info, saving, type, saving_type, saving-type, saving type, tabungan, jenis"
+  },
+  "/registrationForm": {
+    "title": "Registration Form",
+    "description": "E-Form Open Account",
+    "keywords": "e-form"
+  },
+  "/loanInfo": {
+    "title": "bjb KPR",
+    "description": "bjb KPR",
+    "keywords": "info, loan, type, loan_type, loan-type, loan info, loan, jenis, pinjaman"
+  },
+  "/loanForm": {
+    "title": "Loan Form",
+    "description": "E-Form Loan Application",
+    "keywords": "e-form"
+  },
+  "/404": {
+    "title": "404 Not Found",
+    "description": "404",
+    "keywords": ""
+  },
+  "/formPerubahanDataTabungan": {
+    "title": "Perubahan Data Tabungan",
+    "description": "Form Perubahan Data Tabungan",
+    "keywords": "perubahan, eForm, eform Perubahan Data Tabungan, bjb, bank bjb, data, tabungan"
+  },
+  "/formPenambahanJenisTabungan": {
+    "title": "Penambahan Jenis Tabungan",
+    "description": "Form Penambahan Jenis Tabungan",
+    "keywords": "perubahan, eForm, eform Perubahan Data Tabungan, bjb, bank bjb, data, tabungan"
+  },
+  "/formPerubahanDataLoan": {
+    "title": "Perubahan Data Pinjaman",
+    "description": "Form Perubahan Data Pinjaman",
+    "keywords": "perubahan, eForm, eform Perubahan Data Tabungan, bjb, bank bjb, data, tabungan"
+  },
+  "/backToBackLoan": {
+    "title": "Back to Back Loan",
+    "description": "Back to Back Loan",
+    "keywords": "perubahan, eForm, eform Perubahan Data Tabungan, bjb, bank bjb, data, tabungan"
+  }
+}
